@@ -1,0 +1,14 @@
+div {
+    position: relative;
+    background-color: cyan;
+   /* top: 5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px; */
+}
+
+.css-element {
+    background-color: aquamarine;
+    position: absolute;
+   /* inset: 5px; */
+}

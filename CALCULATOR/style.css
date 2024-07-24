@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://image.slidesdocs.com/responsive-images/background/simple-white-education-pencil-calculator-art-powerpoint-background_644fe4b2ed__960_540.jpg");
+}
+h1 {
+  text-align: center;
+  padding: 27px;
+  background-color: #95c5b1;
+  color: black;
+  font-weight: 700;
+}
+
+#clear {
+  width: 270px;
+  border: 3px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  margin-left: 40px;
+  color: black;
+  font-size: 17px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.formstyle {
+  width: 350px;
+  height: 650px;
+  margin: auto;
+  border: 3px solid #95c5b1;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input {
+  width: 20px;
+  background-color: #f5e8c4;
+  color: black;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 29px;
+  margin: 10px;
+  font-size: 17px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#calc {
+  width: 250px;
+  border: 3px solid black;
+  border-radius: 3px;
+  padding: 17px;
+  margin-left: 25px;
+}
+
