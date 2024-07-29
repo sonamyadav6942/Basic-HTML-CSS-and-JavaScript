@@ -1,0 +1,94 @@
+h1 {
+  color: brown;
+  font-size: 39px;
+  text-decoration: underline;
+}
+
+.main {
+  font-size: 17px;
+  width: 1000px;
+  height: 540px;
+  background-color: yellowgreen;
+}
+
+.row1 {
+  width: 1000px;
+  height: 100px;
+  color: white;
+
+  /* font-size: 23px; --> Default Font Size: 16px */
+
+  font-size: 2em; /* 1em = 16px */
+  text-align: center;
+  font-weight: bold;
+  /* font-style: italic; */
+  text-transform: capitalize;
+  /* word-spacing: 23px;
+    letter-spacing: 5px; */
+  background-color: slateblue;
+}
+
+.row2 {
+  width: 1000px;
+  height: 40px;
+  background-color: palevioletred;
+}
+
+.row2c1 {
+  width: 200px;
+  height: 40px;
+  float: left;
+  background-color: red;
+}
+
+.row3 {
+  width: 1000px;
+  height: 200px;
+  background-color: cornsilk;
+}
+
+.row3c1 {
+  width: 250px;
+  height: 200px;
+  float: left;
+  background-color: brown;
+}
+
+.row3r1 {
+  width: 250px;
+  height: 40px;
+}
+
+.row4 {
+  width: 1000px;
+  height: 50px;
+  background-color: violet;
+  text-align: center;
+}
+
+.row5 {
+  width: 1000px;
+  height: 100px;
+  background-color: crimson;
+}
+
+.row5c1 {
+  width: 330px;
+  height: 100px;
+  float: left;
+  background-color: coral;
+}
+
+.row5c2 {
+  width: 330px;
+  height: 100px;
+  float: left;
+  background-color: teal;
+}
+
+.row5c3 {
+  width: 340px;
+  height: 100px;
+  float: left;
+  background-color: darkgreen;
+}
